@@ -1,2 +1,2 @@
-master支修改东西
+dev分支修改东西
 creating a new branch is quick AND simple.
